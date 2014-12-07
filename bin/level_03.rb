@@ -1,51 +1,53 @@
 forecast = [
   {
-    "day" => "monday",
+    "day" => "Monday",
     "temperatures" => {
       "high" => 72,
       "low" => 52
     }
   },
   {
-    "day" => "tuesday",
+    "day" => "Tuesday",
     "temperatures" => {
       "high" => 73,
       "low" => 57
     }
   },
   {
-    "day" => "wednesday",
+    "day" => "Wednesday",
     "temperatures" => {
       "high" => 80,
       "low" => 56
     }
   },
   {
-    "day" => "thursday",
+    "day" => "Thursday",
     "temperatures" => {
       "high" => 81,
       "low" => 58
     }
   },
   {
-    "day" => "friday",
+    "day" => "Friday",
     "temperatures" => {
       "high" => 81,
       "low" => 55
     }
   },
   {
-    "day" => "saturday",
+    "day" => "Saturday",
     "temperatures" => {
       "high" => 82,
       "low" => 57
     }
   },
   {
-    "day" => "sunday",
+    "day" => "Sunday",
     "temperatures" => {
       "high" => 88,
       "low" => 60
     }
   }
 ]
+
+#----- your code below -----

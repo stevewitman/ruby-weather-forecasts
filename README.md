@@ -1,19 +1,16 @@
-Practice Assessment
-=======
-Throughout class we will be doing assessments on the topics we have been working on.
-This assessment is just a way to get you familiar with the process of taking assessments.
+# Weather Forecasts w/ Hashes
 
-This assessment will cover working with GitHub, Pivotal Tracker, Ruby hashes and arrays.
+You are a weather reporter for the local news station.  You get data feeds from
+several different sources, and you need to be able to analyze them and extract
+the high and low temperatures for each day.
 
-Setup
--------
-1. Fork this repository
-1. Clone your forked respository
-1. Follow the instructions below
+## Instructions
 
-Instructions
---------
-1. Fork and clone this repository
-1. Import the stories in stories.csv into Pivotal Tracker
-1. Once you are finished with all the stories, submit the assessment through the
-students app. Be sure to include a link to your Pivotal Tracker project.
+Run `ruby bin/level_00.rb` and look at the output.  Your mission, should you choose
+to accept it, is to get all of the other levels to print out with _exactly_ the
+same output.
+
+So if you run `ruby bin/level_02.rb` the output should be identical to the
+output of `ruby bin/level_00.rb` - that's how you know you've done the right thing.
+
+See `bin/level_00.rb` and `bin/level_01.rb` as examples of what your code should look like.
