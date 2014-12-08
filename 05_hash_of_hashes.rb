@@ -205,5 +205,8 @@ forecast = [
 ]
 
 #----- Put your code below here -----
+forecast.each do |forecast|
+  puts "#{forecast["day"]}: High of #{forecast["temperatures"].values.max}, Low of #{forecast["temperatures"].values.min}"
+end
 
 # http://www.ruby-doc.org/core-2.1.5/Hash.html#method-i-values
